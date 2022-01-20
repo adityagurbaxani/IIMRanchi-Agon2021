@@ -687,6 +687,13 @@ iframe {
 	background-size: cover;
 }
 
+#digitalytics {
+	padding: 140px 0;
+	background: #f6f6f6;
+	background: url(../images/events/Digitalytics-Darken.jpg) center center fixed;
+	background-size: cover;
+}
+
 #ecell {
 	padding: 140px 0;
 	background: #f6f6f6;
@@ -708,6 +715,13 @@ iframe {
 	background-size: cover;
 }
 
+#innovation {
+	padding: 140px 0;
+	background: #f6f6f6;
+	background: url(../images/events/Innovation-Darken.jpg) center center fixed;
+	background-size: cover;
+}
+
 #literary {
 	padding: 140px 0;
 	background: #f6f6f6;
@@ -723,6 +737,13 @@ iframe {
 }
 
 #operations {
+	padding: 140px 0;
+	background: #f6f6f6;
+	background: url(../images/events/Operations-Darken.jpg) center center fixed;
+	background-size: cover;
+}
+
+#polynomics {
 	padding: 140px 0;
 	background: #f6f6f6;
 	background: url(../images/events/Operations-Darken.jpg) center center fixed;

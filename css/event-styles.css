@@ -80,3 +80,10 @@ font-size:18px;
  .service img:hover {
    box-shadow: 7px 15px rgba(0,0,0,0.2);
  }
+
+ img.event-poster {
+	width: 100%;
+    width: -moz-available;          /* WebKit-based browsers will ignore this. */
+    width: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
+    width: fill-available;
+ }
