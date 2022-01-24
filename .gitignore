@@ -1,7 +1,11 @@
-# OS generated files #
-######################
+# Ignore Mac DS_Store files
 .DS_Store
 .DS_Store?
+**/.DS_Store
+
+
+# Other OS generated files #
+######################
 ._*
 .Spotlight-V100
 .Trashes
